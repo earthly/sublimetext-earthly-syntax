@@ -1,4 +1,4 @@
-# earthfile-syntax-highlighting-sublime README
+# SublimeText Earthly Syntax README
 
 <div align="center"><img alt="Earthly" width="700px" src="https://github.com/earthly/earthly/raw/master/img/logo-banner-white-bg.png" /></div>
 
