@@ -1,7 +1,5 @@
 # SublimeText Earthly Syntax README
 
-<div align="center"><img alt="Earthly" width="700px" src="https://github.com/earthly/earthly/raw/master/img/logo-banner-white-bg.png" /></div>
-
 Syntax highlighting for [Earthly](https://earthly.dev) Earthfiles for Sublime Text.
 
 For an introduction of Earthly see the [Earthly GitHub repository](https://github.com/earthly/earthly) or the [Earthly documentation](https://docs.earthly.dev).
