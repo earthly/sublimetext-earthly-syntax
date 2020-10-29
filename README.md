@@ -21,7 +21,7 @@ For an introduction of Earthly see the [Earthly GitHub repository](https://githu
 
 ## Screenshot
 
-![alt tag](https://raw.githubusercontent.com/vishnugt/earthly/master/contrib/earthfile-syntax-highlighting-sublime/Screenshot.png)
+![sublime syntax highlighting screenshot](Screenshot.png)
 
 
 ## Release Notes
